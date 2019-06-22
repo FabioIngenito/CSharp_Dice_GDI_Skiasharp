@@ -1,0 +1,14 @@
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceSkiasharp\bin\Debug\libSkiaSharp.dll
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceSkiasharp\bin\Debug\libSkiaSharp.dylib
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceSkiasharp\bin\Debug\x86\libSkiaSharp.dll
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceSkiasharp\bin\Debug\x64\libSkiaSharp.dll
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceSkiasharp\bin\Debug\clsDiceSkiasharp.dll
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceSkiasharp\bin\Debug\clsDiceSkiasharp.pdb
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceSkiasharp\bin\Debug\SkiaSharp.dll
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceSkiasharp\bin\Debug\SkiaSharp.xml
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceSkiasharp\obj\Debug\clsDiceSkiasharp.UcDiceSkia.resources
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceSkiasharp\obj\Debug\clsDiceSkiasharp.csproj.GenerateResource.cache
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceSkiasharp\obj\Debug\clsDiceSkiasharp.csproj.CoreCompileInputs.cache
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceSkiasharp\obj\Debug\clsDiceSkiasharp.csproj.CopyComplete
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceSkiasharp\obj\Debug\clsDiceSkiasharp.dll
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceSkiasharp\obj\Debug\clsDiceSkiasharp.pdb

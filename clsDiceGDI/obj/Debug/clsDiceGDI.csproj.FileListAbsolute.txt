@@ -1,0 +1,11 @@
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceGDI\bin\Debug\clsDiceGDI.dll
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceGDI\bin\Debug\clsDiceGDI.pdb
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceGDI\obj\Debug\clsDiceGDI.UcDiceGDI.resources
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceGDI\obj\Debug\clsDiceGDI.csproj.GenerateResource.cache
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceGDI\obj\Debug\clsDiceGDI.csproj.CoreCompileInputs.cache
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceGDI\obj\Debug\clsDiceGDI.dll
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceGDI\obj\Debug\clsDiceGDI.pdb
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceGDI\bin\Debug\libSkiaSharp.dll
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceGDI\bin\Debug\libSkiaSharp.dylib
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceGDI\bin\Debug\x86\libSkiaSharp.dll
+E:\Whinchester\FABIO\CD\DICAS\C#\wfaDice\clsDiceGDI\bin\Debug\x64\libSkiaSharp.dll

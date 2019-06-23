@@ -11,7 +11,7 @@ namespace clsDiceGDI
         public static string Sorteia()
         {
             Random randNum = new Random();
-            return randNum.Next(1, 6).ToString();
+            return randNum.Next(1, 7).ToString();
         }
     }
 }
